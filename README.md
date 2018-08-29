@@ -9,6 +9,8 @@ An RPC proxy server for CodeChain
 - `--port`: A binding port of a proxy.
 - `--forward`: A port to forward. The default value is `8080`.
 - `--whitelist`: A path to a whitelist file. The default value is `"whitelist.txt"`.
+- `--log`: A path to a log file. The default value is `"proxy.log"`.
+- `--debug`: Enable debug mode.
 
 ### Writing the whitelist
 
